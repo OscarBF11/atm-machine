@@ -151,7 +151,7 @@ http://localhost:8080/atm-simulator/checkBalance
 ```
 
 * Nota insuficient: el simulador ATM no té prou notes necessàries per l'import sol·licitat o el simulador no pot trobar la combinació adequada de notes per complir l'import sol·licitat
-* ```
+```
 {
     "responseCode": "1",
     "responseDesc": "Insufficient note number. Try dispensing a different amount.",
