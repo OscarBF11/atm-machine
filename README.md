@@ -1,4 +1,4 @@
-# ATM Simulator
+# ATM Machine
 This is a JAVA Spring Boot project simulating ATM machine's logic
 
 ### About API
